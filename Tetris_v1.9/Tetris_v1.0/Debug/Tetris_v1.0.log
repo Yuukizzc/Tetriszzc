@@ -1,0 +1,6 @@
+﻿  game.cpp
+C:\Users\26801\Desktop\C++课件\0426_阶段项目_消行记分和方块旋转\课堂代码\Tetris_v1.9\Tetris_v1.0\game.cpp(7,19): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+C:\Users\26801\Desktop\C++课件\0426_阶段项目_消行记分和方块旋转\课堂代码\Tetris_v1.9\Tetris_v1.0\game.cpp(7,22): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+C:\Users\26801\Desktop\C++课件\0426_阶段项目_消行记分和方块旋转\课堂代码\Tetris_v1.9\Tetris_v1.0\game.cpp(45,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\26801\Desktop\C++课件\0426_阶段项目_消行记分和方块旋转\课堂代码\Tetris_v1.9\Tetris_v1.0\game.cpp(56,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Tetris_v1.0.vcxproj -> C:\Users\26801\Desktop\C++课件\0426_阶段项目_消行记分和方块旋转\课堂代码\Tetris_v1.9\Debug\Tetris_v1.0.exe
